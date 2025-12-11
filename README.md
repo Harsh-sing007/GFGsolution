@@ -1,95 +1,85 @@
-██████╗ ███████╗██╗   ██╗███████╗███████╗██╗     ██╗███████╗███████╗ ██████╗ 
-██╔══██╗██╔════╝██║   ██║██╔════╝██╔════╝██║     ██║██╔════╝██╔════╝██╔═══██╗
-██████╔╝█████╗  ██║   ██║███████╗█████╗  ██║     ██║█████╗  █████╗  ██║   ██║
-██╔══██╗██╔══╝  ╚██╗ ██╔╝╚════██║██╔══╝  ██║     ██║██╔══╝  ██╔══╝  ██║   ██║
-██║  ██║███████╗ ╚████╔╝ ███████║███████╗███████╗██║███████╗███████╗╚██████╔╝
-╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝╚══════╝╚═╝╚══════╝╚══════╝ ╚═════╝ 
-                 ✦  G F G S o l u t i o n  —  C Y B E R P U N K   E D I T I O N ✦
-                          ⚡ C++ | DSA | GeeksforGeeks | Grind Mode ⚡
+                                                                              
+                             **GFG Solutions**                                
+                                                                              
+                    C++ | DSA | GeeksForGeeks | Grind Mode                                                                                             
 
-# 🚀 GFGsolution  
 
-A futuristic, clean, and evolving collection of my **C++ solutions** to DSA problems —  
-mostly solved from **GeeksforGeeks** as part of my long-term grind to master algorithms.
+                         ✦  G F G S o l u t i o n  ✦
+           ⚡ Clean code · Practical patterns · Caffine & Code ⚡
 
-This repo acts as my digital dojo — where I debug, learn, rebuild,  
-and level-up like a cyborg installing fresh logic modules.
+# 🚀 GFGsolution
+
+A futuristic, curated collection of my C++ solutions to DSA problems — mostly solved on
+**GeeksforGeeks**. This repo is my neon dojo: I iterate on solutions, tighten complexity,
+and keep code readable for real-world interviews.
 
 ---
 
-## 🌱 Why This Exists  
-This repository is my personal way to:
+## 🌱 Why this exists
+This repo documents my daily grind to become a stronger problem solver:
+- Strengthen core DSA fundamentals
+- Keep solutions consistent and readable
+- Track steady progress and learning
+- Build interview-ready intuition
 
-- Strengthen core DSA fundamentals  
-- Keep all solutions clean and consistent  
-- Track my daily/weekly growth  
-- Build disciplined problem-solving habits  
-- Document my journey from beginner → strong coder  
-
-Every solution = one more step forward.
+Every solved problem is a small upgrade to the system.
 
 ---
 
-## 🧠 What You’ll Find  
-A wide range of C++ solutions covering:
+## ✨ What you'll find
+Organized, lean C++ solutions across common patterns:
+- Arrays & Strings
+- Linked Lists
+- Trees & Graphs
+- Stacks & Queues
+- Dynamic Programming & Greedy
+- Backtracking & Recursion
+- Sliding Window / Two Pointers
+- Bit Manipulation
+- Searching & Sorting
+- Classic GeeksforGeeks patterns
 
-- Arrays & Strings  
-- Linked Lists  
-- Trees & Graphs  
-- Stacks & Queues  
-- Backtracking  
-- Dynamic Programming  
-- Sliding Window / Two Pointer  
-- Greedy Algorithms  
-- Bit Manipulation  
-- Searching & Sorting  
-- Classic GFG interview patterns  
-
-Each solution focuses on clarity first, optimization next.
+Each file prefers clarity first, micro-optimizations second.
 
 ---
 
-## 🛠 Tech Stack  
-- **Language:** C++  
-- **Platform:** GeeksforGeeks  
-- **Tools:** Git, GitHub, VS Code / GFG IDE  
+## 🛠 Tech Stack
+- Language: C++
+- Platform: GeeksforGeeks
+- Tools: Git, GitHub, VS Code / GFG IDE
 
 ---
 
-## 🌟 Coding Philosophy  
-- Logic > shortcuts  
-- Clean code is underrated  
-- Pattern recognition is power  
-- Consistency creates mastery  
-- Improvement compounds over time  
+## 🌟 Coding Philosophy
+- Logic > clever hacks
+- Clean, well-commented solutions
+- Identify patterns, then generalize
+- Small improvements compound into mastery
 
 ---
 
-## 🎯 Goals  
-- Master DSA concepts deeply  
-- Build interview-ready intuition  
-- Write efficient, structured code  
-- Improve logical thinking  
-- Maintain a well-documented learning repo  
+## 🎯 Goals
+- Master DSA concepts deeply
+- Produce interview-ready solutions
+- Keep solutions readable under time pressure
+- Document the learning path clearly
 
 ---
 
-## 💬 Contributions  
-This repo is mainly a personal grind archive,  
-but suggestions, improvements, alternate solutions,  
-or PRs are always welcome.
+## 💬 Contributions
+This repo is primarily my personal archive, but suggestions and PRs are welcome.
+If you have a more elegant solution or performance tweak—open a PR.
 
 ---
 
-## 🧑‍💻 About Me  
-Just an aspiring coder upgrading myself daily —  
-solving problems, refining logic, and leveling up  
-like a cyberpunk protagonist tuning their internal systems.
-
-If you’re also grinding DSA, you’re already part of the squad. ⚡
+## 🧑‍💻 About Me
+An aspiring coder leveling up daily—solving problems, refining logic, and evolving
+like a cyberpunk tuning their internal systems. If you're grinding DSA too, welcome
+to the squad. ⚡
 
 ---
 
-## ⭐ Support the Journey  
-If this repo inspires you or helps you learn,  
-drop a **star ⭐** — it keeps the neon glow alive.  
+## ⭐ Support the Journey
+If this repo helps you, drop a star ⭐ — it keeps the neon glow alive.
+
+---
