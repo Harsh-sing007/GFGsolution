@@ -1,18 +1,17 @@
 class Solution {
-public:
-    vector<int> findUnion(vector<int>& a, vector<int>& b) {
-        unordered_set<int> st;
+  public:
+    vector<int> findUnion(vector<int> &a, vector<int> &b) {
         
-        for (int x : a)
+        set<int> st;
+
+        for(int x : a)
             st.insert(x);
-            
-        for (int x : b)
+
+        for(int x : b)
             st.insert(x);
-        
-        vector<int> ans;
-        for (int x : st)
-            ans.push_back(x);
-        
-        return ans;
+
+        vector<int> result(st.begin(), st.end());
+
+        return result;
     }
 };
