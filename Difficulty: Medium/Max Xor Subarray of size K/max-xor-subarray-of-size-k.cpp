@@ -1,21 +1,17 @@
 class Solution {
 public:
-    int maxSubarrayXOR(vector<int>& arr, int k) {
+    int maxSubarrayXOR(vector<int> &arr, int k) {
         int n = arr.size();
-        int currXor = 0;
-
-        // First window
+        int currentXor = 0;
         for (int i = 0; i < k; i++) {
-            currXor ^= arr[i];
+            currentXor ^= arr[i];
         }
 
-        int maxXor = currXor;
-
-        // Sliding window
+        int maxXor = currentXor;
         for (int i = k; i < n; i++) {
-            currXor ^= arr[i - k]; // remove outgoing
-            currXor ^= arr[i];     // add incoming
-            maxXor = max(maxXor, currXor);
+            currentXor ^= arr[i - k]; 
+            currentXor ^= arr[i];    
+            maxXor = max(maxXor, currentXor);
         }
 
         return maxXor;
